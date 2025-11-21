@@ -143,24 +143,6 @@ The analysis provides insights into:
 - Product category performance
 - Profitability by sub-category
 
-## 🔧 Configuration
-
-Update the following in the notebook if needed:
-- MySQL connection credentials
-- Database name
-- File paths
-
-## 📄 License
-
-The dataset used in this project is licensed under CC0-1.0 (Public Domain).
-
-## 👤 Author
-
-Data Analysis Project - Retail Orders Analysis
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements.
 
 ## 📝 Notes
 
