@@ -79,7 +79,7 @@ pip install kaggle
      - Host: `127.0.0.1`
      - Port: `3306`
      - User: `root`
-     - Password: `Localhost3306` (update as per your setup)
+     - Password: your_mysql_password
      - Database: `mydatabaseretail`
 
 4. **Run the Jupyter Notebook:**
